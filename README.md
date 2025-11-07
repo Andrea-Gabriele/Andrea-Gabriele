@@ -2,9 +2,10 @@
 <p align="center">
   <b>VFX & Filmmaking Student</b><br>
   Specializing in <b>Houdini</b> and procedural workflows<br>
-  Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>cinematic storytelling</b><br><br>
-  Aspiring to become a <b>Technical Director</b> at <b>Industrial Light & Magic</b>.<br>
+  Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>pipeline development</b><br><br>
+  Working towards a future as a <b>Technical Director</b> at <b>Industrial Light & Magic</b>.
 </p>
+
 
 
 <p align="center">

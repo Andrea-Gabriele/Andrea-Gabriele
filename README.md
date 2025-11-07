@@ -19,11 +19,10 @@
     <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-X.com-000000?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-
 ---
 
 <br>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN6amsxN2lhd3U5bXVjNTNuY2MyazRrOW1rc3F1eWgybjN3N2YyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oi7OBTsyGKTYI/giphy.gif"/>
+  <img src="https://media.giphy.com/media/12Ic5Ud9wFtSYU/giphy.gif"/>
 </p>

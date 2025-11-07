@@ -1,29 +1,22 @@
 #  Andrew 
 <p align="center">
-  <b>VFX & Filmmaking Student</b><br>
+  <b>V̲F̲X̲ ̲&̲ ̲F̲i̲l̲m̲m̲a̲k̲i̲n̲g̲ ̲S̲t̲u̲d̲e̲n̲t̲</b><br>
   Specializing in <b>Houdini</b> and procedural workflows<br>
   Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>pipeline development</b><br><br>
-  Working towards a future as a <b>Technical Director</b> at <b>Industrial Light & Magic</b>.
+  Working towards a future as a <b>TD</b> at <b>Industrial Light & Magic</b>.
 </p>
 
 
 
 <p align="center">
+  <a href="https://letterboxd.com/4ndrea_gabriele/">
+    <img alt="l" src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-00ADEF?style=for-the-badge&logoColor=white"/></a>
 
   <a href="https://www.youtube.com/@Andrea-Gabr1ele" title="Content">
-    <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/></a>
+    <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-Studio-ce4630?style=for-the-badge&logoColor=white"/></a>
     
-  <a href="https://letterboxd.com/4ndrea_gabriele/">
-    <img alt="l" src="https://custom-icon-badges.demolab.com/badge/-letterboxd-488207?style=for-the-badge&logoColor=white&logo=letterboxd_logo"/></a>
-    
-  <a href="https://steamcommunity.com/id/EnergySLB/">
-    <img alt="s"  src="https://custom-icon-badges.demolab.com/badge/-steam-1155ba?style=for-the-badge&logo=steam_logo&logoColor=white"/></a> 
-    
-  <a href="https://www.linkedin.com/in/andrea-gabriele-8a02b42a6/">
-    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-Linkedin-F25278?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    
-  <a href="https://www.instagram.com/continella.francesco/">
-    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/Andrea_Gabri3le">
+    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-X.com-000000?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 

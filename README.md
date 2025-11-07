@@ -1,9 +1,11 @@
 #  Andrew 
-<p style="text-align: justify;">
-Filmmaking and VFX student specializing in Houdini and procedural workflows.  
-Focused on visual storytelling, technical direction, and the intersection between art and technology.  
-Currently developing a strong foundation in FX simulation and pipeline design, with the long-term goal of working as a Technical Director at Industrial Light & Magic.
+<p align="center">
+  <b>VFX & Filmmaking Student</b><br>
+  Specializing in <b>Houdini</b> and procedural workflows<br>
+  Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>cinematic storytelling</b><br><br>
+  Aspiring to become a <b>Technical Director</b> at <b>Industrial Light & Magic</b>.<br>
 </p>
+
 
 <p align="center">
 

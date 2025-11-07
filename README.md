@@ -1,16 +1,27 @@
-## Hi there 👋
+#  Andrew 
+<p style="text-align: justify;">
+Filmmaking and VFX student specializing in Houdini and procedural workflows.  
+Focused on visual storytelling, technical direction, and the intersection between art and technology.  
+Currently developing a strong foundation in FX simulation and pipeline design, with the long-term goal of working as a Technical Director at Industrial Light & Magic.
+</p>
 
-<!--
-**Andrea-Gabriele/Andrea-Gabriele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  <a href="https://youtu.be/oHg5SJYRHA0" title="YouTube">
+    <img alt="Y" src="https://custom-icon-badges.demolab.com/badge/-youtube-ce4630?style=for-the-badge&logo=youtube_full&logoColor=white"/></a>
+  <a href="https://letterboxd.com/Continella/">
+    <img alt="l" src="https://custom-icon-badges.demolab.com/badge/-letterboxd-488207?style=for-the-badge&logoColor=white&logo=letterboxd_logo"/></a>
+  <a href="https://steamcommunity.com/id/EnergySLB/">
+    <img alt="s"  src="https://custom-icon-badges.demolab.com/badge/-steam-1155ba?style=for-the-badge&logo=steam_logo&logoColor=white"/></a> 
+  <a href="https://www.instagram.com/continella.francesco/">
+    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN6amsxN2lhd3U5bXVjNTNuY2MyazRrOW1rc3F1eWgybjN3N2YyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oi7OBTsyGKTYI/giphy.gif"/>
+</p>

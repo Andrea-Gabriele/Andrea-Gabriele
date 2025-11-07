@@ -24,5 +24,8 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12Ic5Ud9wFtSYU/giphy.gif"/>
+  <img src="https://th.bing.com/th/id/R.42789ef28ca6a4307b4335ef88932ba6?rik=k%2fUmIuMGTPDQoA&riu=http%3a%2f%2f31.media.tumblr.com%2f3722567b811bc1fa61da8bea1602a504%2ftumblr_n9jhl5t7PA1t5dpm8o9_500.gif&ehk=E6TK9uaojsNsCYtzmIBUTfK2pRZzak9sy62IX9Td%2fKE%3d&risl=&pid=ImgRaw&r=0" width="100%" height="auto" style="margin-right: 10px; object-fit: cover;"/>
 </p>
+
+
+

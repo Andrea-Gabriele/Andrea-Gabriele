@@ -1,9 +1,9 @@
 #  Andrew 
 <p align="center">
-  <b>V̲F̲X̲ ̲&̲ ̲F̲i̲l̲m̲m̲a̲k̲i̲n̲g̲ ̲S̲t̲u̲d̲e̲n̲t̲</b><br>
+  <b>F̲X̲ TD ̲&̲ ̲F̲i̲l̲m̲m̲a̲k̲i̲n̲g̲ ̲S̲t̲u̲d̲e̲n̲t̲</b><br>
   Specializing in <b>Houdini</b> and procedural workflows<br>
   Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>pipeline development</b><br><br>
-  Working towards a future as a <b>TD</b> at <b>Industrial Light & Magic</b>.
+  Working towards a future at <b>Industrial Light & Magic</b>.
 </p>
 
 
@@ -17,6 +17,10 @@
     
   <a href="https://x.com/Andrea_Gabri3le">
     <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-X.com-000000?style=for-the-badge&logoColor=white"/></a>
+
+  <a href="https://linktr.ee/4ndrea.gabriele">
+    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-More Links-43E55E?style=for-the-badge&logoColor=green"/></a>
+
 </p>
 
 ---

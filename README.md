@@ -19,7 +19,7 @@
     <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-X.com-000000?style=for-the-badge&logoColor=white"/></a>
 
   <a href="https://linktr.ee/4ndrea.gabriele">
-    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-More Links-43E55E?style=for-the-badge&logoColor=green"/></a>
+    <img alt="i"  src="https://custom-icon-badges.demolab.com/badge/-More Links-1F8C27?style=for-the-badge&logoColor=green"/></a>
 
 </p>
 

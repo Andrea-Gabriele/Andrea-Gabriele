@@ -1,6 +1,6 @@
 #  Andrew 
 <p align="center">
-  <b>F̲X̲ TD ̲S̲t̲u̲d̲e̲n̲t̲ ̲&̲ ̲F̲i̲l̲m̲m̲a̲k̲e̲r</b><br>
+  <b>F̲i̲l̲m̲m̲a̲k̲e̲r &̲  F̲X̲ TD ̲S̲t̲u̲d̲e̲n̲t̲</b><br>
   Specializing in <b>Houdini</b> and procedural workflows<br>
   Focused on <b>FX simulation</b>, <b>technical direction</b>, and <b>pipeline development.</b><br><br>
 </p>

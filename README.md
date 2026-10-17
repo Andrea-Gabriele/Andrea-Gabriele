@@ -1,6 +1,10 @@
 <h1 align="center">Andrew’s Works</h1>
 
-<p align="center">Filmmaker</p>
+<p align="center">
+  <b>Filmmaker</b><br>
+  Currently building a <b>platform for the people behind cinema.</b><br>
+  Connecting film culture with the practical work of production.
+</p>
 
 <p align="center">
   <a href="https://andreagabriele.studio/">
@@ -14,9 +18,7 @@
 <br>
 
 <p align="center">
-  <a href="https://andreagabriele.studio/">
-    <img src="https://github.com/user-attachments/assets/5ac5b026-de93-4c80-9759-f0dbdbee73f0" alt="Andrew’s Works — a solitary tree above dark dunes and a deep red path" width="100%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/7362a2c8-c07f-4b18-809e-592f6fbbd041" alt="Andrew’s Works animated landscape in black and deep red" width="840" height="473" />
 </p>
 
 <p align="center">
